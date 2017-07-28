@@ -1,0 +1,26 @@
+{
+  "name": "Oceanstar_Dialing_System",
+  "version": "1.0.0",
+  "description": "Oceanstar Dialing System",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "repository": "https://github.com/itpretty/oceanstar_dialing_system",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "ffzxnet.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-builder": "^19.16.2",
+    "electron-packager": "^8.7.2"
+  }
+}
