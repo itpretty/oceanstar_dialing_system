@@ -22,5 +22,8 @@
     "electron": "~1.6.2",
     "electron-builder": "^19.16.2",
     "electron-packager": "^8.7.2"
+  },
+  "dependencies": {
+
   }
 }
